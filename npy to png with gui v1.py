@@ -1,3 +1,4 @@
+#By JCNW aka manke nelis
 import tkinter as tk
 from tkinter.filedialog import askdirectory
 from PIL import Image
